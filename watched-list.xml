@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movielist>
+
+<movie><title>Casablanca</title><drating>5</drating><crating>5</crating><datewatched>02/25/2012</datewatched></movie><movie><title>Citizen Kane</title><drating>1</drating><crating>1</crating><datewatched>03/03/2012</datewatched></movie><movie><title>Gone With The Wind</title><drating>5</drating><crating>4</crating><datewatched>03/04/2012</datewatched></movie><movie><title>Rebel Without a Cause</title><drating>2</drating><crating>4</crating><datewatched>04/02/2012</datewatched></movie><movie><title>The Wild One</title><drating>4</drating><crating>4</crating><datewatched>04/12/2012</datewatched></movie><movie><title>Butch Cassidy and The Sundance Kid</title><drating>4</drating><crating>4</crating><datewatched>04/13/2012</datewatched></movie></movielist>
